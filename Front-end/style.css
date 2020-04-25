@@ -1,0 +1,12 @@
+/* Copyright Nand Homan, 2020 > Nandhoman.nl */
+th, td, tr{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+}
+
+.AllTileClass{
+    background-color: blue;
+    color: white;
+}

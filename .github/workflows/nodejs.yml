@@ -21,8 +21,8 @@ jobs:
       with:
         node-version: 12.x
     - run: npm install
-    - run: npm body-parser
-    - run: npm http
-    - run: npm express
+    - run: npm install body-parser
+    - run: npm install http
+    - run: npm install express
       env:
         CI: true
